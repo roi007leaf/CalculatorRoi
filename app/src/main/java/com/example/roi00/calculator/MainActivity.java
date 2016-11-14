@@ -148,9 +148,4 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public String returnMyName(){
-        return "My Name Is Roi";
-    }
-
-
 }
